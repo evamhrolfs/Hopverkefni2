@@ -3,7 +3,7 @@ $gutter: 20px;
 //Öll bil eru hálft, heilt, tvöfalt eða þrefalt margfeldi af gutter
 
 $h-fonts: 'Roboto Mono', 'Courier New', monospace;
-$p-fonts: 'Lora', 'Times New Roman', serif;
+$font-main: 'Lora', 'Times New Roman', serif;
 
 $c-black:#000;
 $c-gray1:#999;
@@ -16,11 +16,6 @@ $c-pink: #cc9694;
 
 $movement: all 0.3s ease-in-out;
 
+//$white-color: rgb(255, 255,255, 60%);
 
-//Yfir myndum er 60% gegnsær hvítur litur. Myndir fyrir hvern fyrirlestur eru skilgreindir í json skrá.
-
-//Grunn leturstærð er 16px og fylgja allar aðrar leturgerðir eftirfarandi skala: 16 24 32 48.
-
-//Flest allt er sett upp í 12 dálka grind með 20px gutter.
-
-//Hægt er að nota reglustiku tól (t.d. http://www.arulerforwindows.com/ eða http://www.pascal.com/software/freeruler/) til að finna nákvæmar stærðir en mestu skiptir að lausn svipi til en sé ekki nákvæmlega eins og fyrirmynd.
+//$font: 16px;

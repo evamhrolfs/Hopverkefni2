@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit; }
+
+html {
+  /* stylelint-disable-line */
+  box-sizing: border-box;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  font-family: "Lora", "Times New Roman", serif;
+  font-size: 16px; }
+
+img {
+  /* stylelint-disable-line */
+  max-width: 100%; }
+
+.pages__header {
+  background-image: url("../img/header.jpg"); }
+
+/*# sourceMappingURL=data:application/json;base64,ewoJInZlcnNpb24iOiAzLAoJImZpbGUiOiAiZGlzdC9zdHlsZXMuY3NzIiwKCSJzb3VyY2VzIjogWwoJCSJzcmMvc3R5bGVzL3N0eWxlcy5zY3NzIiwKCQkic3JjL3N0eWxlcy9jb25maWcuc2NzcyIKCV0sCgkibmFtZXMiOiBbXSwKCSJtYXBwaW5ncyI6ICJBQUVBLEFBQUEsQ0FBQyxDQUFDO0VBQ0EsT0FBTyxFQUFFLENBQUM7RUFDVixNQUFNLEVBQUUsQ0FBQyxHQUNWOztBQUVELEFBQUEsQ0FBQztBQUNELENBQUMsQUFBQSxRQUFRO0FBQ1QsQ0FBQyxBQUFBLE9BQU8sQ0FBQztFQUNQLFVBQVUsRUFBRSxPQUFPLEdBQ3BCOztBQUVELEFBQUEsSUFBSSxDQUFDO0VBQUUsNEJBQTRCO0VBQ2pDLFVBQVUsRUFBRSxVQUFVO0VBQ3RCLFVBQVUsRUFBRSxNQUFNO0VBQ2xCLFVBQVUsRUFBRSxNQUFNO0VBRWxCLFdBQVcsRUNiRCxNQUFNLEVBQUUsaUJBQWlCLEVBQUUsS0FBSztFRGMxQyxTQUFTLEVBQUUsSUFBSSxHQUNoQjs7QUFFRCxBQUFBLEdBQUcsQ0FBQztFQUFFLDRCQUE0QjtFQUNoQyxTQUFTLEVBQUUsSUFBSSxHQUNoQjs7QUFDRCxBQUFBLGNBQWMsQ0FBQTtFQUNaLGdCQUFnQixFQUFFLHdCQUF3QixHQUMzQyIKfQ== */
